@@ -1,0 +1,6 @@
+module Pods_DrsMobile {
+  umbrella header "Pods-DrsMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

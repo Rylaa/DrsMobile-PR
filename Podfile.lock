@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - Moya (14.0.0-beta.3):
+    - Moya/Core (= 14.0.0-beta.3)
+  - Moya/Core (14.0.0-beta.3):
+    - Alamofire (= 5.0.0-rc.2)
+  - RadioGroup (1.4.0):
+    - SweeterSwift
+  - SweeterSwift (1.0.5)
+  - SwiftLint (0.35.0)
+  - TextFieldEffects (1.6.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.2)
+  - Moya (~> 14.0.0-beta.2)
+  - RadioGroup
+  - SwiftLint
+  - TextFieldEffects
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Moya
+    - RadioGroup
+    - SweeterSwift
+    - SwiftLint
+    - TextFieldEffects
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  Moya: 1741bc26d2a3ad30f0410750868c7661fdd3b180
+  RadioGroup: 27ceb18c20f995ed588f9ec0375099a8dd550f3e
+  SweeterSwift: 2708d1eea926546f8f6e8fea38ac8f5598ff00c7
+  SwiftLint: 5553187048b900c91aa03552807681bb6b027846
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 3ec18daf8455239d9f9278aa7e867afb5fb96f29
+
+COCOAPODS: 1.7.5
